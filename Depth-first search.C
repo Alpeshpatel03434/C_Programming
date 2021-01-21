@@ -1,3 +1,5 @@
+Depth-first search
+
 #include<stdio.h>
 
 #define size 20
