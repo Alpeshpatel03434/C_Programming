@@ -1,3 +1,5 @@
+# Depth-first search
+
 class Graph:
     adjMatrix = []
 
