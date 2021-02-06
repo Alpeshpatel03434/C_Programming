@@ -1,3 +1,5 @@
+# Breadth-first search
+
 class Graph:
     adjMatrix = []
 
